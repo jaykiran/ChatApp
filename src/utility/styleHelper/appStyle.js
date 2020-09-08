@@ -14,7 +14,7 @@ const getFieldDimesions = () => {
       fieldMarginVertical: 10,
       btnMarginVertical: 20,
       btnBorderRadius: 10,
-      btnHeight: 50,
+      btnHeight: 50, 
     };
   } else {
     return {

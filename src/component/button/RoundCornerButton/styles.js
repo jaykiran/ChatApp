@@ -1,10 +1,11 @@
+/* eslint-disable prettier/prettier */
 import {StyleSheet} from 'react-native';
 import {appStyle} from '../../../utility';
 
 export default StyleSheet.create({
   btn: {
     backgroundColor: appStyle.fieldBgColor,
-    width: '90%',
+    width: '70%',
     height: appStyle.btnHeight,
     borderRadius: appStyle.btnBorderRadius,
     alignItems: 'center',

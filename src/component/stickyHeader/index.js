@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 import React from "react";
 import { Text, TouchableOpacity } from "react-native";
 import { Card, CardItem, Left, Body, Thumbnail } from "native-base";

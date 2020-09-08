@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 import { StyleSheet } from "react-native";
 import { color, appStyle } from "../../utility";
 import { smallDeviceHeight } from "../../utility/constants";
@@ -25,7 +26,7 @@ export default StyleSheet.create({
     height: getDimensions().height,
     width: getDimensions().width,
     borderRadius: getDimensions().borderRadius,
-    backgroundColor: color.DARK_GRAY,
+    backgroundColor: color.WHITE,
     alignItems: "center",
     justifyContent: "center",
   },

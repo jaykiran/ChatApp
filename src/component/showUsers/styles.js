@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 import { StyleSheet } from "react-native";
 import { color } from "../../utility";
 
@@ -6,9 +7,11 @@ export default StyleSheet.create({
     backgroundColor: color.SEMI_TRANSPARENT,
     borderBottomWidth: 1,
     borderColor: color.SILVER,
+    borderRadius: 20
   },
   cardItemStyle: {
     backgroundColor: color.SEMI_TRANSPARENT,
+    borderRadius: 20
   },
 
   logoContainer: {

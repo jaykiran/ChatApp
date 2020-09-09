@@ -118,7 +118,7 @@ export default ({ navigation }) => {
       <TouchableWithoutFeedback onPress={Keyboard.dismiss}>
         <SafeAreaView style={{ flex: 1, backgroundColor: color.WHITE }}>
           {logo && (
-            <View style={[globalStyle.containerCentered]}>
+            <View style={[globalStyle.registerCentered]}>
               <Logo />
             </View>
           )}
@@ -163,7 +163,7 @@ export default ({ navigation }) => {
               style={{
                 fontSize: 28,
                 fontWeight: "bold",
-                color: color.LIGHT_GREEN,
+                color: color.BLUE,
               }}
               onPress={() => {
                 setInitialState();

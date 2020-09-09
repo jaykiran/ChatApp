@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 /* eslint-disable prettier/prettier */
 import React, {useEffect} from 'react';
 import {View} from 'react-native';
@@ -27,7 +28,7 @@ export default ({navigation}) => {
   }, [navigation]);
   return (
     <View
-      style={[globalStyle.containerCentered, {backgroundColor: color.BLACK}]}>
+      style={[globalStyle.containerCentered, {backgroundColor: color.WHITE}]}>
       <Logo />
     </View>
   );

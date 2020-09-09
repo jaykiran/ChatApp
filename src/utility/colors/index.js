@@ -1,3 +1,4 @@
+/* eslint-disable quotes */
 // eslint-disable quotes 
 /* eslint-disable prettier/prettier */
 /**
@@ -28,6 +29,7 @@ export const BLACK = "rgb(0, 0, 0)";
 export const SEMI_TRANSPARENT = "rgba(0,0,0,0.5)";
 export const RED = "rgba(255, 0, 0, 1)";
 export const SILVER = "rgb(192,192,192)";
+export const BLUE = "#00b7c2";
 
 export const DARK_GRAY = "rgb(46, 46, 46)";
 

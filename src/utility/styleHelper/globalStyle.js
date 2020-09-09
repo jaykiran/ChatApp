@@ -19,6 +19,10 @@ export default StyleSheet.create({
     alignItems: 'center',
     flex: 1,
   },
+  registerCentered: {
+    justifyContent: 'center',
+    alignItems: 'center',
+  },
   sectionCentered: { justifyContent: 'center', alignItems: 'center' },
 
   /* Aligning items */

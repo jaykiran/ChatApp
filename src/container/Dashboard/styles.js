@@ -1,4 +1,5 @@
 /* eslint-disable prettier/prettier */
+
 import {StyleSheet} from 'react-native';
 import {color, appStyle} from '../../utility';
 

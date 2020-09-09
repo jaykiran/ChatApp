@@ -134,7 +134,7 @@ export default ({ navigation }) => {
               style={{
                 fontSize: 28,
                 fontWeight: "bold",
-                color: color.GREEN,
+                color: color.BLUE,
               }}
               onPress={() => {
                 setInitialState();

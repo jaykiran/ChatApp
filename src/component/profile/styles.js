@@ -1,3 +1,4 @@
+/* eslint-disable quotes */
 /* eslint-disable prettier/prettier */
 import { StyleSheet } from "react-native";
 import { appStyle, color } from "../../utility";

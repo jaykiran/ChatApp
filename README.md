@@ -28,11 +28,6 @@
 the working demo gif is in images folder of the repo. have a look!
 
 **user registration :**
-![login](/images/login.png)
-![register](/images/register.png)
-![dashboard](/images/dashboard.png)
-![chat session](/images/chatsession.png)
-![profile pic](images/image.png)
 <img src="images/first.gif" height="600">
 <img src="images/user1_chat.gif" height="600">
 <img src="images/user3_chat.gif" height="600"> 

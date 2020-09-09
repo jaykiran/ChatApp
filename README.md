@@ -33,3 +33,4 @@ the working demo gif is in images folder of the repo. have a look!
 ![dashboard](/images/dashboard.png)
 ![chat session](/images/chatsession.png)
 ![profile pic](images/image.png)
+<img src="images/first.gif" height="600">

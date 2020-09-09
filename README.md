@@ -34,3 +34,7 @@ the working demo gif is in images folder of the repo. have a look!
 ![chat session](/images/chatsession.png)
 ![profile pic](images/image.png)
 <img src="images/first.gif" height="600">
+<img src="images/user1_chat.gif" height="600">
+<img src="images/user3_chat.gif" height="600"> 
+<img src="images/profile_picture_setup.gif" height="600">
+<img src="images/profilepic_automatic_update.gif" height="600">

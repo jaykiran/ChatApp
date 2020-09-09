@@ -22,11 +22,13 @@
 - Authentication using firebase
 - Messages and Image data are stored in firebase real time data base.
 
-## **Working Demo**
+## **Screenshots**
 
-**Android1:**
+the working demo gif is in images folder of the repo. have a look!
 
-user registration :
-
-<img src="github_img/first.gif" height="800"> 
-<img src="github_img/user1_chat.gif" height="800">
+**user registration :**
+![login](/images/login.png)
+![register](/images/register.png)
+![dashboard](/images/dashboard.png)
+![chat session](/images/chatsession.png)
+![profile pic](images/image.png)

@@ -1,4 +1,3 @@
-# ChatApp
 # **Chat App**
 
 ## **Features**
